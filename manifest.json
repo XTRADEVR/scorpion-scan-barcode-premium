@@ -1,0 +1,11 @@
+{
+  "name": "SCORPION SCAN",
+  "short_name": "SCORPION",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060a14",
+  "theme_color": "#00ff88",
+  "icons": [
+    {"src": "icon.png1.jpg","sizes": "512x512","type": "image/png"}
+  ]
+}
